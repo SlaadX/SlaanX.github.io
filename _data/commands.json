@@ -81,26 +81,6 @@
   },
   {
     "data": {
-      "isShortcut": false
-    },
-    "description": "Shows you the current list of commands, which may or may not be this list.",
-    "name": "All commands",
-    "usage": "!allcommands",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "description": "Shows you the complete list of installed mods.",
-    "name": "Installed mods",
-    "usage": "!installedmods",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
       "isShortcut": true
     },
     "description": "Adds a trait for your pawn.",
@@ -205,7 +185,7 @@
     },
     "description": "Shows an overview of your pawn's body.",
     "name": "Viewer body",
-    "usage": "!mypawnbody",
+    "usage": "!body",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -303,6 +283,16 @@
     "data": {
       "isShortcut": false
     },
+    "description": "Removes viewers that were stuck in the \"game paused\" limbo.",
+    "name": "Unstick",
+    "usage": "!unstick",
+    "userLevel": "Moderator",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
     "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
     "name": "Insult",
     "usage": "!insult [target]",
@@ -326,6 +316,16 @@
     "description": "Shows the current number of colonists remaining in the colony.",
     "name": "Colonist count",
     "usage": "!colonists",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false
+    },
+    "description": "It's like unstick, but safe for viewers to use.",
+    "name": "Unstick me",
+    "usage": "!unstickme",
     "userLevel": "Anyone",
     "shortcut": false
   },
