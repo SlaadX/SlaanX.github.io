@@ -147,7 +147,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -236,15 +236,10 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "cropsprout",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "immortality",
 		"price": 100000,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 49
+	"total": 48
 }
