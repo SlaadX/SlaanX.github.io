@@ -18,7 +18,7 @@
 	{
 		"abr": "removetrait",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
@@ -31,9 +31,19 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "replacetrait",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
@@ -43,7 +53,7 @@
 	{
 		"abr": "removepassion",
 		"price": 2000,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "backpack",
@@ -53,48 +63,28 @@
 	{
 		"abr": "settraits",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "cleartraits",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "use",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "wear",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "equip",
 		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomchildhood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomadulthood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "sanctuary",
-		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 19
+	"total": 17
 }
